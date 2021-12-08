@@ -42,3 +42,6 @@ Deploy your ERC20 contract (alt-token) at Fantom
 # Ajude-nos adicionar conteúdo novo na enciclopédia
 
 **Abra um PR adicionando a fonte de conteúdo na língua desejada, depois nós lidamos com atualizar a parte de traduções!**
+
+Aprenda a usar a biblioteca Ethers ou Web3 para se comunicar com contratos através de um front-end  
+-> tbd
