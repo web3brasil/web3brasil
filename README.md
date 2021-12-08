@@ -6,6 +6,9 @@
 Guia teórico explicando tudo desde a criação do Ethereum até os produtos e blockchains atuais  
 -> https://dev.to/gabrieljeronimo/guia-as-financas-descentralizadas-ego (ainda falta traduzir várias páginas!)
 
+Como configurar um ambiente Solana do zero usando Anchor no Windows e Linux
+-> https://dev.to/gabrieljeronimo/como-configurar-um-ambiente-solana-no-windows-e-linux-hi9
+
 Guia completo de desenvolvimento full-stack com Solana, React, Anchor, Rust e Phantom  
 -> https://vitorsalmeida.com/blog/fullstack-development-solana
 
