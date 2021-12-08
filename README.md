@@ -1,10 +1,7 @@
-# Web3 Brasil
 
-Conteúdo pra aprender web3
+# Roadmap Web3
 
-## Roadmap Web3
-
-### Português
+## Português
 
 Guia teórico explicando tudo desde a criação do Ethereum até os produtos e blockchains atuais  
 -> https://dev.to/gabrieljeronimo/guia-as-financas-descentralizadas-ego (ainda falta traduzir várias páginas!)
@@ -18,7 +15,7 @@ Faça deploy de um contrato ERC721 (coleção de NFT) na rede $FTM
 Aprenda a usar a biblioteca Ethers ou Web3 para se comunicar com contratos através de um front-end  
 -> tbd
 
-### English
+## English
 
 Guide to Decentralized Finance (DeFi)  
 -> https://finematics.com/guide-to-decentralized-finance/
@@ -32,7 +29,7 @@ Deploy an ERC721 contract (NFT collection) at Fantom
 Learn to use Ethers or Web3 in js to make a front-end to interact with your contracts  
 -> tbd
 
-## Ajude-nos a traduzir conteúdo pra português:
+# Ajude-nos a traduzir conteúdo pra português:
 
 **(se você começar a traduzir algum abra uma issue sinalizando o que você vai traduzir e qual sua expectativa de terminar!)**
 
