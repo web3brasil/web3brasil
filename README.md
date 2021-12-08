@@ -21,7 +21,7 @@ Deploy your ERC20 contract (alt-token) at Fantom
 -> https://medium.com/@marcoworms/deploying-your-own-shitcoin-at-ftm-and-creating-a-decentralized-market-for-it-1dda397f9e4
 
 Deploy an ERC721 contract (NFT collection) at Fantom  
-->https://strangebrew-finance.medium.com/how-to-deploy-your-own-nft-collection-on-fantom-82c157fa4ce3
+-> https://strangebrew-finance.medium.com/how-to-deploy-your-own-nft-collection-on-fantom-82c157fa4ce3
 
 
 ## Ajude-nos a traduzir conteúdo de qualidade
