@@ -7,16 +7,16 @@ Guia teórico explicando tudo desde a criação do Ethereum até os produtos e b
 -> https://dev.to/gabrieljeronimo/guia-as-financas-descentralizadas-ego (ainda falta traduzir várias páginas!)
 
 Faça deploy de um contrato ERC20 (coleção de NFT) na rede $FTM  
--> tbd
+-> a ser traduzido
 
 Faça deploy de um contrato ERC721 (coleção de NFT) na rede $FTM  
 -> https://medium.com/@marcoworms/fazendo-deploy-da-sua-pr%C3%B3pria-cole%C3%A7%C3%A3o-de-nft-na-rede-fantom-e-listando-ela-em-um-marketplace-a2fb63741fe7
 
 Aprenda a usar a biblioteca Ethers ou Web3 para se comunicar com contratos através de um front-end  
--> tbd
+-> a ser feito
 
 Gerindo comunidades Web3 e mídias sociais  
--> tbd
+-> a ser traduzido
 
 Alguns serviços DeFi na rede Fantom (thread em português)
 -> https://twitter.com/MarcoWorms/status/1463126516670386178
@@ -39,7 +39,7 @@ Deploy an ERC721 contract (NFT collection) at Fantom
 -> https://strangebrew-finance.medium.com/how-to-deploy-your-own-nft-collection-on-fantom-82c157fa4ce3
 
 Learn to use Ethers or Web3 in js to make a front-end to interact with your contracts  
--> tbd
+-> to be done
 
 Managing Web3 communities and social media  
 -> https://medium.com/@marcoworms/managing-web3-communities-and-social-media-a90c7a9999f6
