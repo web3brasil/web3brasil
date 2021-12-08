@@ -8,7 +8,7 @@
 Guia teórico explicando tudo desde a criação do Ethereum até os produtos e blockchains atuais  
 -> https://dev.to/gabrieljeronimo/guia-as-financas-descentralizadas-ego (ainda falta traduzir várias páginas!)
 
-Faça deploy de um contrato ERC20 (coleção de NFT) na rede $FTM  
+Faça deploy de um contrato ERC20 (alt-coin) na rede $FTM  
 -> a ser traduzido
 
 Faça deploy de um contrato ERC721 (coleção de NFT) na rede $FTM  
