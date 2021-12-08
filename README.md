@@ -41,6 +41,9 @@ Deploy an ERC721 contract (NFT collection) at Fantom
 Learn to use Ethers or Web3 in js to make a front-end to interact with your contracts  
 -> to be done
 
+Thread about Play-to-Earn and NFT gaming  
+-> https://twitter.com/Tocelot/status/1439632031726456832
+
 Managing Web3 communities and social media  
 -> https://medium.com/@marcoworms/managing-web3-communities-and-social-media-a90c7a9999f6
 
@@ -56,9 +59,6 @@ Deploy your ERC20 contract (alt-token) at Fantom
 
 Managing Web3 communities and social media  
 -> https://medium.com/@marcoworms/managing-web3-communities-and-social-media-a90c7a9999f6
-
-Thread about Play-to-Earn and NFT gaming  
--> https://twitter.com/Tocelot/status/1439632031726456832
 
 # Ajude-nos adicionar conteúdo novo na enciclopédia
 
