@@ -18,13 +18,13 @@ Aprenda a usar a biblioteca Ethers ou Web3 para se comunicar com contratos atrav
 Gerindo comunidades Web3 e mídias sociais  
 -> a ser traduzido
 
-Alguns serviços DeFi na rede Fantom (thread em português)
+Thread sobre alguns serviços DeFi na rede Fantom 
 -> https://twitter.com/MarcoWorms/status/1463126516670386178
 
-Thread sobre liquidity pools  
+Thread sobre liquidity pools 
 -> https://twitter.com/MarcoWorms/status/1456120121223696387
 
-thread sobre Jogos + NFT e o modelo Play-to-Earn  
+Thread sobre Jogos + NFT e o modelo Play-to-Earn  
 -> https://twitter.com/MarcoWorms/status/1457047212303728644
 
 ## English
