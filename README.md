@@ -9,6 +9,9 @@ Guia teórico explicando tudo desde a criação do Ethereum até os produtos e b
 Guia completo de desenvolvimento full-stack com Solana, React, Anchor, Rust e Phantom  
 -> https://vitorsalmeida.com/blog/fullstack-development-solana
 
+Entendendo Program Derived Addresses
+-> a ser traduzido
+
 Faça deploy de um contrato ERC20 (coleção de NFT) na rede $FTM  
 -> a ser traduzido
 
@@ -50,6 +53,9 @@ Thread about Play-to-Earn and NFT gaming
 Managing Web3 communities and social media  
 -> https://medium.com/@marcoworms/managing-web3-communities-and-social-media-a90c7a9999f6
 
+Understanding Program Derived Addresses 
+-> https://www.brianfriel.xyz/understanding-program-derived-addresses/
+
 # 🔠 Traduza conteúdo pra português:
 
 ## Se você começar a traduzir alguma página abaixo abra uma issue sinalizando o que você vai traduzir e qual sua expectativa de terminar! Assim evitamos retrabalho!
@@ -62,6 +68,9 @@ Deploy your ERC20 contract (alt-token) at Fantom
 
 Managing Web3 communities and social media  
 -> https://medium.com/@marcoworms/managing-web3-communities-and-social-media-a90c7a9999f6
+
+Understanding Program Derived Addresses
+-> https://www.brianfriel.xyz/understanding-program-derived-addresses/
 
 # ✍️ Adicione conteúdo novo na enciclopédia
 
