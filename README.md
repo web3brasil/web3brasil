@@ -7,7 +7,7 @@ Conteúdo pra aprender web3
 ### Português
 
 Guia teórico explicando tudo desde a criação do Ethereum até os produtos e blockchains atuais  
--> tbd
+-> https://dev.to/gabrieljeronimo/guia-as-financas-descentralizadas-ego (ainda falta traduzir várias páginas!)
 
 Faça deploy de um contrato ERC20 (coleção de NFT) na rede $FTM  
 -> tbd
@@ -27,6 +27,10 @@ Deploy an ERC721 contract (NFT collection) at Fantom
 -> https://strangebrew-finance.medium.com/how-to-deploy-your-own-nft-collection-on-fantom-82c157fa4ce3
 
 
-## Ajude-nos a traduzir conteúdo de qualidade
+## Ajude-nos a traduzir conteúdo:
 
--> tbd
+Guia teórico explicando tudo desde a criação do Ethereum até os produtos e blockchains atuais  
+-> https://dev.to/gabrieljeronimo/guia-as-financas-descentralizadas-ego (ainda falta traduzir várias páginas!)
+
+Deploy your ERC20 contract (alt-token) at Fantom  
+-> https://medium.com/@marcoworms/deploying-your-own-shitcoin-at-ftm-and-creating-a-decentralized-market-for-it-1dda397f9e4
