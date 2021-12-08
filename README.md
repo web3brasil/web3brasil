@@ -31,7 +31,7 @@ Learn to use Ethers or Web3 in js to make a front-end to interact with your cont
 
 # Traduza conteúdo pra português:
 
-## Se você começar a traduzir alguma página abaixo abra uma issue sinalizando o que você vai traduzir e qual sua expectativa de terminar!
+## Se você começar a traduzir alguma página abaixo abra uma issue sinalizando o que você vai traduzir e qual sua expectativa de terminar! Assim evitamos retrabalho!
 
 Guia teórico explicando tudo desde a criação do Ethereum até os produtos e blockchains atuais  
 -> https://dev.to/gabrieljeronimo/guia-as-financas-descentralizadas-ego (ainda falta traduzir várias páginas!)
