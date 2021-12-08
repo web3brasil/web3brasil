@@ -17,18 +17,6 @@ Faça deploy de um contrato ERC721 (coleção de NFT) na rede $FTM
 Aprenda a usar a biblioteca Ethers ou Web3 para se comunicar com contratos através de um front-end  
 -> a ser feito
 
-Gerindo comunidades Web3 e mídias sociais  
--> a ser traduzido
-
-Thread sobre alguns serviços DeFi na rede Fantom  
--> https://twitter.com/MarcoWorms/status/1463126516670386178
-
-Thread sobre liquidity pools  
--> https://twitter.com/MarcoWorms/status/1456120121223696387
-
-Thread sobre Jogos + NFT e o modelo Play-to-Earn  
--> https://twitter.com/MarcoWorms/status/1457047212303728644
-
 ### Solana
 
 Como configurar um ambiente Solana do zero usando Anchor no Windows e Linux  
@@ -39,6 +27,20 @@ Guia completo de desenvolvimento full-stack com Solana, React, Anchor, Rust e Ph
 
 Entendendo Program Derived Addresses  
 -> a ser traduzido
+
+### Web3 e DeFi
+
+Gerindo comunidades Web3 e mídias sociais  
+-> a ser traduzido
+
+Thread sobre Jogos + NFT e o modelo Play-to-Earn  
+-> https://twitter.com/MarcoWorms/status/1457047212303728644
+
+Thread sobre liquidity pools  
+-> https://twitter.com/MarcoWorms/status/1456120121223696387
+
+Thread sobre alguns serviços DeFi na rede Fantom  
+-> https://twitter.com/MarcoWorms/status/1463126516670386178
 
 ## 🇬🇧 English
 
