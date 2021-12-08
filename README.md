@@ -6,7 +6,10 @@ Conteúdo pra aprender web3
 
 ### Português
 
-Guia teórico explicando tudo desde a criação do Ethereum até os produtos e blockchains atuai
+Guia teórico explicando tudo desde a criação do Ethereum até os produtos e blockchains atuais  
+-> tbd
+
+Faça deploy de um contrato ERC20 (coleção de NFT) na rede $FTM  
 -> tbd
 
 Faça deploy de um contrato ERC721 (coleção de NFT) na rede $FTM  
