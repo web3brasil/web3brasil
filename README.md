@@ -40,3 +40,5 @@ Deploy your ERC20 contract (alt-token) at Fantom
 -> https://medium.com/@marcoworms/deploying-your-own-shitcoin-at-ftm-and-creating-a-decentralized-market-for-it-1dda397f9e4
 
 # Ajude-nos adicionar conteúdo novo na enciclopédia
+
+**Abra um PR adicionando a fonte de conteúdo na língua desejada, depois nós lidamos com atualizar a parte de traduções!**
