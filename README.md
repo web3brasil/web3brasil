@@ -62,7 +62,7 @@ Thread about Play-to-Earn and NFT gaming
 Managing Web3 communities and social media  
 -> https://medium.com/@marcoworms/managing-web3-communities-and-social-media-a90c7a9999f6
 
-Understanding Program Derived Addresses 
+Understanding Program Derived Addresses  
 -> https://www.brianfriel.xyz/understanding-program-derived-addresses/
 
 # 🔠 Traduza conteúdo pra português:
