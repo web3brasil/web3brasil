@@ -1,7 +1,7 @@
 
-# Enciclopédia Web3
+# 📖 Enciclopédia Web3
 
-## Português
+## 🇧🇷 Português
 
 Guia teórico explicando tudo desde a criação do Ethereum até os produtos e blockchains atuais  
 -> https://dev.to/gabrieljeronimo/guia-as-financas-descentralizadas-ego (ainda falta traduzir várias páginas!)
@@ -27,7 +27,7 @@ Thread sobre liquidity pools
 Thread sobre Jogos + NFT e o modelo Play-to-Earn  
 -> https://twitter.com/MarcoWorms/status/1457047212303728644
 
-## English
+## 🇬🇧 English
 
 Guide to Decentralized Finance (DeFi)  
 -> https://finematics.com/guide-to-decentralized-finance/
@@ -47,7 +47,7 @@ Thread about Play-to-Earn and NFT gaming
 Managing Web3 communities and social media  
 -> https://medium.com/@marcoworms/managing-web3-communities-and-social-media-a90c7a9999f6
 
-# Traduza conteúdo pra português:
+# 🔠 Traduza conteúdo pra português:
 
 ## Se você começar a traduzir alguma página abaixo abra uma issue sinalizando o que você vai traduzir e qual sua expectativa de terminar! Assim evitamos retrabalho!
 
@@ -60,7 +60,7 @@ Deploy your ERC20 contract (alt-token) at Fantom
 Managing Web3 communities and social media  
 -> https://medium.com/@marcoworms/managing-web3-communities-and-social-media-a90c7a9999f6
 
-# Ajude-nos adicionar conteúdo novo na enciclopédia
+# ✍️ Ajude-nos adicionar conteúdo novo na enciclopédia
 
 **Abra um PR adicionando a fonte de conteúdo na língua desejada, depois nós lidamos com atualizar a parte de traduções!**
 
