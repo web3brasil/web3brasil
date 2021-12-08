@@ -15,6 +15,9 @@ Faça deploy de um contrato ERC721 (coleção de NFT) na rede $FTM
 Aprenda a usar a biblioteca Ethers ou Web3 para se comunicar com contratos através de um front-end  
 -> tbd
 
+Gerindo comunidades Web3 e mídias sociais
+-> tbd
+
 ## English
 
 Guide to Decentralized Finance (DeFi)  
@@ -29,6 +32,9 @@ Deploy an ERC721 contract (NFT collection) at Fantom
 Learn to use Ethers or Web3 in js to make a front-end to interact with your contracts  
 -> tbd
 
+Managing Web3 communities and social media  
+-> https://medium.com/@marcoworms/managing-web3-communities-and-social-media-a90c7a9999f6
+
 # Traduza conteúdo pra português:
 
 ## Se você começar a traduzir alguma página abaixo abra uma issue sinalizando o que você vai traduzir e qual sua expectativa de terminar! Assim evitamos retrabalho!
@@ -38,6 +44,9 @@ Guia teórico explicando tudo desde a criação do Ethereum até os produtos e b
 
 Deploy your ERC20 contract (alt-token) at Fantom  
 -> https://medium.com/@marcoworms/deploying-your-own-shitcoin-at-ftm-and-creating-a-decentralized-market-for-it-1dda397f9e4
+
+Managing Web3 communities and social media  
+-> https://medium.com/@marcoworms/managing-web3-communities-and-social-media-a90c7a9999f6
 
 # Ajude-nos adicionar conteúdo novo na enciclopédia
 
