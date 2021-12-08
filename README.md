@@ -37,7 +37,7 @@ Como configurar um ambiente Solana do zero usando Anchor no Windows e Linux
 Guia completo de desenvolvimento full-stack com Solana, React, Anchor, Rust e Phantom  
 -> https://vitorsalmeida.com/blog/fullstack-development-solana
 
-Entendendo Program Derived Addresses
+Entendendo Program Derived Addresses  
 -> a ser traduzido
 
 ## 🇬🇧 English
