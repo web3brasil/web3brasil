@@ -24,7 +24,7 @@ Alguns serviços DeFi na rede Fantom (thread em português)
 Thread sobre liquidity pools  
 -> https://twitter.com/MarcoWorms/status/1456120121223696387
 
-thread sobre Jogos + NFT e o modelo Play-to-Earn
+thread sobre Jogos + NFT e o modelo Play-to-Earn  
 -> https://twitter.com/MarcoWorms/status/1457047212303728644
 
 ## English
@@ -57,7 +57,7 @@ Deploy your ERC20 contract (alt-token) at Fantom
 Managing Web3 communities and social media  
 -> https://medium.com/@marcoworms/managing-web3-communities-and-social-media-a90c7a9999f6
 
-Thread about Play-to-Earn
+Thread about Play-to-Earn and NFT gaming  
 -> https://twitter.com/Tocelot/status/1439632031726456832
 
 # Ajude-nos adicionar conteúdo novo na enciclopédia
