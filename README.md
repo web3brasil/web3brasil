@@ -15,8 +15,17 @@ Faça deploy de um contrato ERC721 (coleção de NFT) na rede $FTM
 Aprenda a usar a biblioteca Ethers ou Web3 para se comunicar com contratos através de um front-end  
 -> tbd
 
-Gerindo comunidades Web3 e mídias sociais
+Gerindo comunidades Web3 e mídias sociais  
 -> tbd
+
+Alguns serviços DeFi na rede Fantom (thread em português)
+-> https://twitter.com/MarcoWorms/status/1463126516670386178
+
+Thread sobre liquidity pools  
+-> https://twitter.com/MarcoWorms/status/1456120121223696387
+
+thread sobre Jogos + NFT e o modelo Play-to-Earn
+-> https://twitter.com/MarcoWorms/status/1457047212303728644
 
 ## English
 
@@ -47,6 +56,9 @@ Deploy your ERC20 contract (alt-token) at Fantom
 
 Managing Web3 communities and social media  
 -> https://medium.com/@marcoworms/managing-web3-communities-and-social-media-a90c7a9999f6
+
+Thread about Play-to-Earn
+-> https://twitter.com/Tocelot/status/1439632031726456832
 
 # Ajude-nos adicionar conteúdo novo na enciclopédia
 
