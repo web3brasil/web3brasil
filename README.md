@@ -60,7 +60,7 @@ Deploy your ERC20 contract (alt-token) at Fantom
 Managing Web3 communities and social media  
 -> https://medium.com/@marcoworms/managing-web3-communities-and-social-media-a90c7a9999f6
 
-# ✍️ Ajude-nos adicionar conteúdo novo na enciclopédia
+# ✍️ Adicione conteúdo novo na enciclopédia
 
 **Abra um PR adicionando a fonte de conteúdo na língua desejada, depois nós lidamos com atualizar a parte de traduções!**
 
