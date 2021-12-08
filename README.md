@@ -29,9 +29,9 @@ Deploy an ERC721 contract (NFT collection) at Fantom
 Learn to use Ethers or Web3 in js to make a front-end to interact with your contracts  
 -> tbd
 
-# Ajude-nos a traduzir conteúdo pra português:
+# Traduza conteúdo pra português:
 
-**(se você começar a traduzir algum abra uma issue sinalizando o que você vai traduzir e qual sua expectativa de terminar!)**
+**Se você começar a traduzir algum abra uma issue sinalizando o que você vai traduzir e qual sua expectativa de terminar!**
 
 Guia teórico explicando tudo desde a criação do Ethereum até os produtos e blockchains atuais  
 -> https://dev.to/gabrieljeronimo/guia-as-financas-descentralizadas-ego (ainda falta traduzir várias páginas!)
