@@ -73,7 +73,7 @@ Guia teórico explicando tudo desde a criação do Ethereum até os produtos e b
 -> https://dev.to/gabrieljeronimo/guia-as-financas-descentralizadas-ego (ainda falta traduzir várias páginas!)
 
 Deploy your ERC20 contract (alt-token) at Fantom  
--> already translating! https://github.com/web3brasil/web3brasil/issues/2
+-> already translating! https://github.com/web3brasil/web3brasil/issues/2  
 -> https://medium.com/@marcoworms/deploying-your-own-shitcoin-at-ftm-and-creating-a-decentralized-market-for-it-1dda397f9e4
 
 Managing Web3 communities and social media  
