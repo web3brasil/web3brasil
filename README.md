@@ -77,9 +77,11 @@ Deploy your ERC20 contract (alt-token) at Fantom
 -> https://medium.com/@marcoworms/deploying-your-own-shitcoin-at-ftm-and-creating-a-decentralized-market-for-it-1dda397f9e4
 
 Managing Web3 communities and social media  
+-> already translating! https://github.com/web3brasil/web3brasil/issues/4  
 -> https://medium.com/@marcoworms/managing-web3-communities-and-social-media-a90c7a9999f6
 
 Understanding Program Derived Addresses  
+-> already translating! https://github.com/web3brasil/web3brasil/issues/3  
 -> https://www.brianfriel.xyz/understanding-program-derived-addresses/
 
 # ✍️ Adicione conteúdo novo na enciclopédia
