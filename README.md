@@ -30,6 +30,9 @@ Entendendo Program Derived Addresses
 
 ### Web3 e DeFi
 
+Lançando sua própria shitcoin na rede Fantom e criando um mercado descentralizado para ela
+-> https://medium.com/@cdbm/lan%C3%A7ando-sua-pr%C3%B3pria-shitcoin-na-rede-fantom-e-criando-um-mercado-descentralizado-para-ela-d4d1319181c2
+
 Gerindo comunidades Web3 e mídias sociais  
 -> a ser traduzido
 
@@ -71,10 +74,6 @@ Understanding Program Derived Addresses
 
 Guia teórico explicando tudo desde a criação do Ethereum até os produtos e blockchains atuais  
 -> https://dev.to/gabrieljeronimo/guia-as-financas-descentralizadas-ego (ainda falta traduzir várias páginas!)
-
-Deploy your ERC20 contract (alt-token) at Fantom  
--> already translating! https://github.com/web3brasil/web3brasil/issues/2  
--> https://medium.com/@marcoworms/deploying-your-own-shitcoin-at-ftm-and-creating-a-decentralized-market-for-it-1dda397f9e4
 
 Managing Web3 communities and social media  
 -> already translating! https://github.com/web3brasil/web3brasil/issues/4  
