@@ -9,7 +9,7 @@ Guia teórico explicando tudo desde a criação do Ethereum até os produtos e b
 -> https://dev.to/gabrieljeronimo/guia-as-financas-descentralizadas-ego (ainda falta traduzir várias páginas!)
 
 Faça deploy de um contrato ERC20 (alt-coin) na rede $FTM  
--> a ser traduzido
+-> https://medium.com/@cdbm/lan%C3%A7ando-sua-pr%C3%B3pria-shitcoin-na-rede-fantom-e-criando-um-mercado-descentralizado-para-ela-d4d1319181c2
 
 Faça deploy de um contrato ERC721 (coleção de NFT) na rede $FTM  
 -> https://medium.com/@marcoworms/fazendo-deploy-da-sua-pr%C3%B3pria-cole%C3%A7%C3%A3o-de-nft-na-rede-fantom-e-listando-ela-em-um-marketplace-a2fb63741fe7
@@ -29,9 +29,6 @@ Entendendo Program Derived Addresses
 -> a ser traduzido
 
 ### Web3 e DeFi
-
-Lançando sua própria shitcoin na rede Fantom e criando um mercado descentralizado para ela
--> https://medium.com/@cdbm/lan%C3%A7ando-sua-pr%C3%B3pria-shitcoin-na-rede-fantom-e-criando-um-mercado-descentralizado-para-ela-d4d1319181c2
 
 Gerindo comunidades Web3 e mídias sociais  
 -> a ser traduzido
