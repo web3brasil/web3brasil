@@ -4,8 +4,6 @@
     <img alt="web3 brasil" src="imagens/banner.png"/>
 </p>
 
-<hr>
-
 ## Sumário
 - [Português](#-português)
   - [Ethereum](#ethereum)
@@ -15,10 +13,6 @@
 - [English](#-english)
 - [Como Ajudar](#-traduza-conteúdo-pra-português)
 - [Contribuidores](#contribuidores)
-
-
-
-
 
 # 🇧🇷 Português
 
@@ -76,7 +70,10 @@ Ambiente de desenvolvimento local pra desenvolver fazer deploy de contratos na r
 * https://hardhat.org/
 
 Hash Lips, o criador mais famoso de imagem generativa de NFT  
-* https://finematics.com/smart-contracts-explained/
+* https://github.com/HashLips/hashlips_art_engine
+
+Projeto simples de como fazer um sistema de login com a MetaMask
+* https://github.com/amaurym/login-with-metamask-demo
 
 # 🇬🇧 English
 
