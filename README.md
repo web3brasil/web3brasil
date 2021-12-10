@@ -1,7 +1,20 @@
 
 # 📖 Enciclopédia Web3
+<p align="center">
+    <img alt="web3 brasil" src="imagens/banner.png"/>
+</p>
 
-## 🇧🇷 Português
+## Sumário
+- [Português](#-português)
+  - [Ethereum](#ethereum)
+  - [Solana](#solana)
+  - [Web3 e DeFi](#web3-e-defi)
+  - [Ferramentas](#ferramentas)
+- [English](#-english)
+- [Como Ajudar](#-traduza-conteúdo-pra-português)
+- [Contribuidores](#contribuidores)
+
+# 🇧🇷 Português
 
 ### Ethereum
 
@@ -17,6 +30,8 @@ Faça deploy de um contrato ERC721 (coleção de NFT) na rede $FTM
 Aprenda a usar a biblioteca Ethers ou Web3 para se comunicar com contratos através de um front-end  
 * a ser feito
 
+<hr>
+
 ### Solana
 
 Como configurar um ambiente Solana do zero usando Anchor no Windows e Linux  
@@ -27,6 +42,8 @@ Guia completo de desenvolvimento full-stack com Solana, React, Anchor, Rust e Ph
 
 Entendendo Program Derived Addresses  
 * a ser traduzido
+
+<hr>
 
 ### Web3 e DeFi
 
@@ -42,6 +59,8 @@ Thread sobre liquidity pools
 Thread sobre alguns serviços DeFi na rede Fantom  
 * https://twitter.com/MarcoWorms/status/1463126516670386178
 
+<hr>
+
 ### Ferramentas
 
 Ambiente de desenvolvimento no browser pra desenvolver e fazer deploy de contratos na rede Ethereum, Fantom, ou qualquer outra como Ethereum  
@@ -51,9 +70,12 @@ Ambiente de desenvolvimento local pra desenvolver fazer deploy de contratos na r
 * https://hardhat.org/
 
 Hash Lips, o criador mais famoso de imagem generativa de NFT  
-* https://finematics.com/smart-contracts-explained/
+* https://github.com/HashLips/hashlips_art_engine
 
-## 🇬🇧 English
+Projeto simples de como fazer um sistema de login com a MetaMask
+* https://github.com/amaurym/login-with-metamask-demo
+
+# 🇬🇧 English
 
 Guide to Decentralized Finance (DeFi)  
 * https://finematics.com/guide-to-decentralized-finance/
@@ -89,3 +111,7 @@ Guia teórico explicando tudo desde a criação do Ethereum até os produtos e b
 
 Aprenda a usar a biblioteca Ethers ou Web3 para se comunicar com contratos através de um front-end  
 * tbd
+
+
+# Contribuidores
+<a href="https://github.com/web3brasil/web3brasil/graphs/contributors"><img src="https://contrib.rocks/image?repo=web3brasil/web3brasil" /></a>
