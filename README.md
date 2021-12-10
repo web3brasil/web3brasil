@@ -21,6 +21,10 @@
 Guia teórico explicando tudo desde a criação do Ethereum até os produtos e blockchains atuais  
 * https://dev.to/gabrieljeronimo/guia-as-financas-descentralizadas-ego (ainda falta traduzir várias páginas!)
 
+Guia de Solidity em português  
+* Guia https://solidity.web3dev.com.br/iKRFpTeqCtdXrqA7DJQZ/
+* Aulas em cima do guia https://www.youtube.com/channel/UCSURiMEKbegRPQU56LrZa-Q
+
 Faça deploy de um contrato ERC20 (alt-coin) na rede $FTM  
 * https://medium.com/@cdbm/lan%C3%A7ando-sua-pr%C3%B3pria-shitcoin-na-rede-fantom-e-criando-um-mercado-descentralizado-para-ela-d4d1319181c2
 
@@ -72,8 +76,11 @@ Ambiente de desenvolvimento local pra desenvolver fazer deploy de contratos na r
 Hash Lips, o criador mais famoso de imagem generativa de NFT  
 * https://github.com/HashLips/hashlips_art_engine
 
-Projeto simples de como fazer um sistema de login com a MetaMask
+Projeto simples de como fazer um sistema de login com a MetaMask  
 * https://github.com/amaurym/login-with-metamask-demo
+ 
+Fazendo gerador de pixel art + cor procedural com um motor de jogos  
+* https://twitter.com/i/broadcasts/1rmxPgwlbkVJN
 
 # 🇬🇧 English
 
@@ -112,6 +119,14 @@ Guia teórico explicando tudo desde a criação do Ethereum até os produtos e b
 Aprenda a usar a biblioteca Ethers ou Web3 para se comunicar com contratos através de um front-end  
 * tbd
 
+# Comunidades pra você entrar e falar mais sobre web3 e desenvolvimento de dapps
+
+FakewormsStudio  
+* http://discord.gg/fantom-kittens
+
+Web3dev (Comunidade que nos alcançou recentemente, linkei aqui por agora e vamos conversar mais sobre somo unir esforços)  
+* https://docs.web3dev.com.br/
+* discord.web3dev.com.br
 
 # Contribuidores
 <a href="https://github.com/web3brasil/web3brasil/graphs/contributors"><img src="https://contrib.rocks/image?repo=web3brasil/web3brasil" /></a>
