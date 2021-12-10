@@ -48,7 +48,7 @@ Entendendo Program Derived Addresses
 ### Web3 e DeFi
 
 Gerindo comunidades Web3 e mídias sociais  
-* a ser traduzido
+* https://medium.com/@miltonsermoud/gerindo-comunidades-web3-e-m%C3%ADdias-sociais-4ef04fd0851c
 
 Thread sobre Jogos + NFT e o modelo Play-to-Earn  
 * https://twitter.com/MarcoWorms/status/1457047212303728644
