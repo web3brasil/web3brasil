@@ -126,7 +126,7 @@ FakewormsStudio
 
 Web3dev (Comunidade que nos alcançou recentemente, linkei aqui por agora e vamos conversar mais sobre somo unir esforços)  
 * https://docs.web3dev.com.br/
-* discord.web3dev.com.br
+* https://discord.web3dev.com.br
 
 # Contribuidores
 <a href="https://github.com/web3brasil/web3brasil/graphs/contributors"><img src="https://contrib.rocks/image?repo=web3brasil/web3brasil" /></a>
