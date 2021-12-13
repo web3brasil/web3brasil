@@ -66,6 +66,9 @@ Thread sobre alguns serviços DeFi na rede Fantom
 Thread desmistificando carteiras e contratos  
 * https://twitter.com/MarcoWorms/status/1470484837626744843
 
+Thread sobre escalar a rede Ethereum  
+* https://twitter.com/igorlourencox/status/1470489611944275977
+
 <hr>
 
 ### Ferramentas
