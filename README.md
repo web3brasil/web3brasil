@@ -63,6 +63,9 @@ Thread sobre liquidity pools
 Thread sobre alguns serviços DeFi na rede Fantom  
 * https://twitter.com/MarcoWorms/status/1463126516670386178
 
+Thread desmistificando carteiras e contratos  
+* https://twitter.com/MarcoWorms/status/1470484837626744843
+
 <hr>
 
 ### Ferramentas
