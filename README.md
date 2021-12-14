@@ -69,6 +69,9 @@ Thread desmistificando carteiras e contratos
 Thread sobre escalar a rede Ethereum  
 * https://twitter.com/igorlourencox/status/1470489611944275977
 
+Thread sobre Ethereum VS. Outras Redes  
+* https://twitter.com/MarcoWorms/status/1470774806203224071
+
 <hr>
 
 ### Ferramentas
@@ -110,6 +113,9 @@ Managing Web3 communities and social media
 
 Understanding Program Derived Addresses  
 * https://www.brianfriel.xyz/understanding-program-derived-addresses/
+
+Ethereum VS Other chains  
+* https://twitter.com/gablg1/status/1470753577731772427
 
 # 🔠 Traduza conteúdo pra português:
 
