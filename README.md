@@ -16,7 +16,7 @@
 
 # 🇧🇷 Português
 
-### Ethereum
+### Ethereum, Fantom, e outras compatíveis com a Ethereum
 
 Guia teórico explicando tudo desde a criação do Ethereum até os produtos e blockchains atuais  
 * https://dev.to/gabrieljeronimo/guia-as-financas-descentralizadas-ego (ainda falta traduzir várias páginas!)
