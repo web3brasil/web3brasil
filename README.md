@@ -72,6 +72,9 @@ Sobre escalar a rede Ethereum
 Thread sobre Ethereum VS. Outras Redes  
 * https://twitter.com/MarcoWorms/status/1470774806203224071
 
+Protocolos Grossos: Como a blockchain promove inovação tecnológica de forma descentralizada  
+* https://medium.com/@marcoworms/157ef1007c20
+
 <hr>
 
 ### Ferramentas
