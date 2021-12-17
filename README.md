@@ -94,6 +94,9 @@ Projeto simples de como fazer um sistema de login com a MetaMask
 Fazendo gerador de pixel art + cor procedural com um motor de jogos  
 * https://twitter.com/i/broadcasts/1rmxPgwlbkVJN
 
+Timeline com alguns dos principais acontecimentos sobre NFT, criptomoedas e outros projetos web3. 
+* https://web3isgoinggreat.com/
+
 # 🇬🇧 English
 
 Guide to Decentralized Finance (DeFi)  
