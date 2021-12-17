@@ -1,8 +1,8 @@
-
-# 📖 Enciclopédia Web3
 <p align="center">
     <img alt="web3 brasil" src="imagens/banner.png"/>
 </p>
+
+# 📖 Enciclopédia Web3
 
 ### Ethereum, Fantom, e outras compatíveis com a Ethereum
 
