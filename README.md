@@ -4,18 +4,6 @@
     <img alt="web3 brasil" src="imagens/banner.png"/>
 </p>
 
-## Sumário
-- [Português](#-português)
-  - [Ethereum](#ethereum)
-  - [Solana](#solana)
-  - [Web3 e DeFi](#web3-e-defi)
-  - [Ferramentas](#ferramentas)
-- [English](#-english)
-- [Como Ajudar](#-traduza-conteúdo-pra-português)
-- [Contribuidores](#contribuidores)
-
-# 🇧🇷 Português
-
 ### Ethereum, Fantom, e outras compatíveis com a Ethereum
 
 Guia teórico explicando tudo desde a criação do Ethereum até os produtos e blockchains atuais  
@@ -96,32 +84,6 @@ Fazendo gerador de pixel art + cor procedural com um motor de jogos
 
 Timeline com alguns dos principais acontecimentos sobre NFT, criptomoedas e outros projetos web3. 
 * https://web3isgoinggreat.com/
-
-# 🇬🇧 English
-
-Guide to Decentralized Finance (DeFi)  
-* https://finematics.com/guide-to-decentralized-finance/
-
-Deploy your ERC20 contract (alt-token) at Fantom  
-* https://medium.com/@marcoworms/deploying-your-own-shitcoin-at-ftm-and-creating-a-decentralized-market-for-it-1dda397f9e4
-
-Deploy an ERC721 contract (NFT collection) at Fantom  
-* https://strangebrew-finance.medium.com/how-to-deploy-your-own-nft-collection-on-fantom-82c157fa4ce3
-
-Learn to use Ethers or Web3 in js to make a front-end to interact with your contracts  
-* to be done
-
-Thread about Play-to-Earn and NFT gaming  
-* https://twitter.com/Tocelot/status/1439632031726456832
-
-Managing Web3 communities and social media  
-* https://medium.com/@marcoworms/managing-web3-communities-and-social-media-a90c7a9999f6
-
-Understanding Program Derived Addresses  
-* https://www.brianfriel.xyz/understanding-program-derived-addresses/
-
-Ethereum VS Other chains  
-* https://twitter.com/gablg1/status/1470753577731772427
 
 # 🔠 Traduza conteúdo pra português:
 
