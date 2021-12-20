@@ -63,6 +63,9 @@ Thread sobre Ethereum VS. Outras Redes
 Protocolos Grossos: Como a blockchain promove inovação tecnológica de forma descentralizada  
 * https://medium.com/@marcoworms/157ef1007c20
 
+Sobre a influência da arte no futuro e a importância do metaverso ser aberto e com fácil interoperabilidade
+* https://twitter.com/MarcoWorms/status/1472916371273093120
+
 <hr>
 
 ### Ferramentas
