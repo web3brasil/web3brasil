@@ -21,3 +21,6 @@ Understanding Program Derived Addresses
 
 Ethereum VS Other chains  
 * https://twitter.com/gablg1/status/1470753577731772427
+
+Thread about the importance of art on the fight for open protocols
+* https://twitter.com/artnet/status/1472671289450151939?t=QHMVu9s2Jvm0wD3ihScG_g&s=19
