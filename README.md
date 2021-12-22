@@ -66,6 +66,9 @@ Protocolos Grossos: Como a blockchain promove inovação tecnológica de forma d
 Sobre a influência da arte no futuro e a importância do metaverso ser aberto e com fácil interoperabilidade
 * https://twitter.com/MarcoWorms/status/1472916371273093120
 
+O que é DeFi? Explicando as finanças descentralizadas.
+* https://dev.to/gabrieljeronimo/o-que-e-defi-explicando-as-financas-descentralizadas-o3i
+
 <hr>
 
 ### Ferramentas
