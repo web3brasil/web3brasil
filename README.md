@@ -98,6 +98,10 @@ Timeline com alguns dos principais acontecimentos sobre NFT, criptomoedas e outr
 Guia teórico explicando tudo desde a criação do Ethereum até os produtos e blockchains atuais  
 * https://dev.to/gabrieljeronimo/guia-as-financas-descentralizadas-ego (ainda falta traduzir várias páginas!)
 
+Lançando uma coleção NFT, tutorial feito pela buildspace 
+_(Começei a montar o esqueleto para as pasta em pt-br, fique a vontade de contribuir)_
+* https://github.com/Jmallone/buildspace-projects/tree/main/NFT_Collection/pt-br 
+
 # ✍️ Adicione conteúdo novo na enciclopédia
 
 **Abra um PR adicionando a fonte de conteúdo na língua desejada, depois nós lidamos com atualizar a parte de traduções!**
