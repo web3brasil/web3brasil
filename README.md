@@ -12,9 +12,9 @@ A web3 é uma nova camada da internet que permite os usuários terem autoridade 
 
 A palavra "web3" tenta delimitar o escopo do movimento descrito acima. Resumidamente:
 
-Web 1 — O site gera conteúdo, o site é dono do conteúdo
-Web 2 — O usuário gera conteúdo, o site é dono do conteúdo 
-Web 3 — O usuário gera conteúdo, o usuário é dono do conteúdo
+* Web 1 — O site gera conteúdo, o site é dono do conteúdo
+* Web 2 — O usuário gera conteúdo, o site é dono do conteúdo 
+* Web 3 — O usuário gera conteúdo, o usuário é dono do conteúdo
 
 As blockchains por exemplo são uma tecnologia que permite a web3 acontecer, como estamos no começo desse movimento ainda estamos por ver várias tecnologias e produtos que vão agregar mais ainda nessa nova camada da internet.
 
