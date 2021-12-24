@@ -51,8 +51,6 @@ Protocolos Grossos: Como a blockchain promove inovação tecnológica de forma d
 Sobre a influência da arte no futuro e a importância do metaverso ser aberto e com fácil interoperabilidade
 * https://twitter.com/MarcoWorms/status/1472916371273093120
 
-<hr>
-
 # Ethereum, Fantom, e outras compatíveis com a Ethereum
 
 Guia de Solidity em português  
@@ -68,8 +66,6 @@ Faça deploy de um contrato ERC721 (coleção de NFT) na rede $FTM
 Aprenda a usar a biblioteca Ethers ou Web3 para se comunicar com contratos através de um front-end  
 * a ser feito
 
-<hr>
-
 # Solana
 
 Como configurar um ambiente Solana do zero usando Anchor no Windows e Linux  
@@ -80,8 +76,6 @@ Guia completo de desenvolvimento full-stack com Solana, React, Anchor, Rust e Ph
 
 Entendendo Program Derived Addresses  
 * a ser traduzido
-
-<hr>
 
 # Ferramentas
 
