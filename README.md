@@ -4,7 +4,21 @@
 
 # 📖 Enciclopédia Web3
 
-### Ethereum, Fantom, e outras compatíveis com a Ethereum
+## Por onde começar??
+
+Ainda não temos um guia linear de como juntar todas as peças do movimento da web3, mas aqui você vai encontrar material pra aprender sobre vários conceitos chave.
+
+A web3 é uma nova camada da internet que permite os usuários terem autoridade sobre o conteúdo deles. Ela não substitui todas as partes da web, apenas adiciona novas possibilidades que não tínhamos disponíveis antes.
+
+A palavra "web3" tenta delimitar o escopo do movimento descrito acima. Resumidamente:
+
+Web 1 — O site gera conteúdo, o site é dono do conteúdo
+Web 2 — O usuário gera conteúdo, o site é dono do conteúdo 
+Web 3 — O usuário gera conteúdo, o usuário é dono do conteúdo
+
+As blockchains por exemplo são uma tecnologia que permite a web3 acontecer, como estamos no começo desse movimento ainda estamos por ver várias tecnologias e produtos que vão agregar mais ainda nessa nova camada da internet.
+
+## Ethereum, Fantom, e outras compatíveis com a Ethereum
 
 Guia teórico explicando tudo desde a criação do Ethereum até os produtos e blockchains atuais  
 * https://dev.to/gabrieljeronimo/guia-as-financas-descentralizadas-ego (ainda falta traduzir várias páginas!)
@@ -24,7 +38,7 @@ Aprenda a usar a biblioteca Ethers ou Web3 para se comunicar com contratos atrav
 
 <hr>
 
-### Solana
+## Solana
 
 Como configurar um ambiente Solana do zero usando Anchor no Windows e Linux  
 * https://dev.to/gabrieljeronimo/como-configurar-um-ambiente-solana-no-windows-e-linux-hi9
@@ -37,7 +51,7 @@ Entendendo Program Derived Addresses
 
 <hr>
 
-### Web3 e DeFi
+## Web3 e DeFi
 
 Gerindo comunidades Web3 e mídias sociais  
 * https://medium.com/@miltonsermoud/gerindo-comunidades-web3-e-m%C3%ADdias-sociais-4ef04fd0851c
@@ -71,7 +85,7 @@ O que é DeFi? Explicando as finanças descentralizadas.
 
 <hr>
 
-### Ferramentas
+## Ferramentas
 
 Ambiente de desenvolvimento no browser pra desenvolver e fazer deploy de contratos na rede Ethereum, Fantom, ou qualquer outra como Ethereum  
 * https://remix.ethereum.org/
