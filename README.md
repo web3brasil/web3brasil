@@ -2,9 +2,7 @@
     <img alt="web3 brasil" src="imagens/banner.png"/>
 </p>
 
-# 📖 Enciclopédia Web3
-
-## Por onde começar??
+# Por onde começar??
 
 Ainda não temos um guia linear de como juntar todas as peças do movimento da web3, mas aqui você vai encontrar material pra aprender sobre vários conceitos chave.
 
@@ -18,40 +16,13 @@ A palavra "web3" tenta delimitar o escopo do movimento descrito acima. Resumidam
 
 As blockchains por exemplo são uma tecnologia que permite a web3 acontecer, como estamos no começo desse movimento ainda estamos por ver várias tecnologias e produtos que vão agregar mais ainda nessa nova camada da internet.
 
-## Ethereum, Fantom, e outras compatíveis com a Ethereum
+# Web3 e DeFi
 
 Guia teórico explicando tudo desde a criação do Ethereum até os produtos e blockchains atuais  
-* https://dev.to/gabrieljeronimo/guia-as-financas-descentralizadas-ego (ainda falta traduzir várias páginas!)
+* https://dev.to/gabrieljeronimo/guia-as-financas-descentralizadas-ego (ainda falta traduzir várias páginas! aqui é o índex delas traduzido!)
 
-Guia de Solidity em português  
-* Guia https://solidity.web3dev.com.br/iKRFpTeqCtdXrqA7DJQZ/
-* Aulas em cima do guia https://www.youtube.com/channel/UCSURiMEKbegRPQU56LrZa-Q
-
-Faça deploy de um contrato ERC20 (alt-coin) na rede $FTM  
-* https://medium.com/@cdbm/lan%C3%A7ando-sua-pr%C3%B3pria-shitcoin-na-rede-fantom-e-criando-um-mercado-descentralizado-para-ela-d4d1319181c2
-
-Faça deploy de um contrato ERC721 (coleção de NFT) na rede $FTM  
-* https://medium.com/@marcoworms/fazendo-deploy-da-sua-pr%C3%B3pria-cole%C3%A7%C3%A3o-de-nft-na-rede-fantom-e-listando-ela-em-um-marketplace-a2fb63741fe7
-
-Aprenda a usar a biblioteca Ethers ou Web3 para se comunicar com contratos através de um front-end  
-* a ser feito
-
-<hr>
-
-## Solana
-
-Como configurar um ambiente Solana do zero usando Anchor no Windows e Linux  
-* https://dev.to/gabrieljeronimo/como-configurar-um-ambiente-solana-no-windows-e-linux-hi9
-
-Guia completo de desenvolvimento full-stack com Solana, React, Anchor, Rust e Phantom  
-* https://vitorsalmeida.com/blog/fullstack-development-solana
-
-Entendendo Program Derived Addresses  
-* a ser traduzido
-
-<hr>
-
-## Web3 e DeFi
+O que é DeFi? Explicando as finanças descentralizadas. (página do guia acima!)
+* https://dev.to/gabrieljeronimo/o-que-e-defi-explicando-as-financas-descentralizadas-o3i
 
 Gerindo comunidades Web3 e mídias sociais  
 * https://medium.com/@miltonsermoud/gerindo-comunidades-web3-e-m%C3%ADdias-sociais-4ef04fd0851c
@@ -80,12 +51,39 @@ Protocolos Grossos: Como a blockchain promove inovação tecnológica de forma d
 Sobre a influência da arte no futuro e a importância do metaverso ser aberto e com fácil interoperabilidade
 * https://twitter.com/MarcoWorms/status/1472916371273093120
 
-O que é DeFi? Explicando as finanças descentralizadas.
-* https://dev.to/gabrieljeronimo/o-que-e-defi-explicando-as-financas-descentralizadas-o3i
+<hr>
+
+# Ethereum, Fantom, e outras compatíveis com a Ethereum
+
+Guia de Solidity em português  
+* Guia https://solidity.web3dev.com.br/iKRFpTeqCtdXrqA7DJQZ/
+* Aulas em cima do guia https://www.youtube.com/channel/UCSURiMEKbegRPQU56LrZa-Q
+
+Faça deploy de um contrato ERC20 (alt-coin) na rede $FTM  
+* https://medium.com/@cdbm/lan%C3%A7ando-sua-pr%C3%B3pria-shitcoin-na-rede-fantom-e-criando-um-mercado-descentralizado-para-ela-d4d1319181c2
+
+Faça deploy de um contrato ERC721 (coleção de NFT) na rede $FTM  
+* https://medium.com/@marcoworms/fazendo-deploy-da-sua-pr%C3%B3pria-cole%C3%A7%C3%A3o-de-nft-na-rede-fantom-e-listando-ela-em-um-marketplace-a2fb63741fe7
+
+Aprenda a usar a biblioteca Ethers ou Web3 para se comunicar com contratos através de um front-end  
+* a ser feito
 
 <hr>
 
-## Ferramentas
+# Solana
+
+Como configurar um ambiente Solana do zero usando Anchor no Windows e Linux  
+* https://dev.to/gabrieljeronimo/como-configurar-um-ambiente-solana-no-windows-e-linux-hi9
+
+Guia completo de desenvolvimento full-stack com Solana, React, Anchor, Rust e Phantom  
+* https://vitorsalmeida.com/blog/fullstack-development-solana
+
+Entendendo Program Derived Addresses  
+* a ser traduzido
+
+<hr>
+
+# Ferramentas
 
 Ambiente de desenvolvimento no browser pra desenvolver e fazer deploy de contratos na rede Ethereum, Fantom, ou qualquer outra como Ethereum  
 * https://remix.ethereum.org/
