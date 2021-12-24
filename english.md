@@ -24,3 +24,6 @@ Ethereum VS Other chains
 
 Thread about the importance of art on the fight for open protocols
 * https://twitter.com/artnet/status/1472671289450151939?t=QHMVu9s2Jvm0wD3ihScG_g&s=19
+
+How web3 changes the internet by giving authority to users, and about blockchain as a database
+* https://jaygraber.medium.com/web3-is-self-certifying-9dad77fd8d81
