@@ -27,3 +27,6 @@ Thread about the importance of art on the fight for open protocols
 
 How web3 changes the internet by giving authority to users, and about blockchain as a database
 * https://jaygraber.medium.com/web3-is-self-certifying-9dad77fd8d81
+
+How a shared data layer and an access token change the game for protocol development
+* https://www.usv.com/writing/2016/08/fat-protocols/
