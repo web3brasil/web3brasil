@@ -30,3 +30,6 @@ How web3 changes the internet by giving authority to users, and about blockchain
 
 How a shared data layer and an access token change the game for protocol development
 * https://www.usv.com/writing/2016/08/fat-protocols/
+
+Ethereum security 
+* https://cosimo.gitbook.io/ethereum-security/
