@@ -63,6 +63,9 @@ Faça deploy de um contrato ERC20 (alt-coin) na rede $FTM
 Faça deploy de um contrato ERC721 (coleção de NFT) na rede $FTM  
 * https://medium.com/@marcoworms/fazendo-deploy-da-sua-pr%C3%B3pria-cole%C3%A7%C3%A3o-de-nft-na-rede-fantom-e-listando-ela-em-um-marketplace-a2fb63741fe7
 
+Crie sua própria coleção de NFT com site, utilizando conceitos de _web3, reactjs, solidity e outros._
+* https://github.com/Jmallone/buildspace-projects/tree/main/NFT_Collection/pt-br 
+
 Aprenda a usar a biblioteca Ethers ou Web3 para se comunicar com contratos através de um front-end  
 * a ser feito
 
@@ -103,10 +106,6 @@ Timeline com alguns dos principais acontecimentos sobre NFT, criptomoedas e outr
 
 Guia teórico explicando tudo desde a criação do Ethereum até os produtos e blockchains atuais  
 * https://dev.to/gabrieljeronimo/guia-as-financas-descentralizadas-ego (ainda falta traduzir várias páginas!)
-
-Lançando uma coleção NFT, tutorial feito pela buildspace 
-_(Começei a montar o esqueleto para as pasta em pt-br, fique a vontade de contribuir)_
-* https://github.com/Jmallone/buildspace-projects/tree/main/NFT_Collection/pt-br 
 
 # ✍️ Adicione conteúdo novo na enciclopédia
 
