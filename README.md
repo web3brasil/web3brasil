@@ -69,6 +69,9 @@ Crie sua própria coleção de NFT com site, utilizando conceitos de _web3, reac
 Aprenda a usar a biblioteca Ethers ou Web3 para se comunicar com contratos através de um front-end  
 * a ser feito
 
+Passo-a-passo comprando um NFT do zero (usando o site do Fantom Kittens HD de exemplo)
+* https://www.linkedin.com/feed/update/urn:li:activity:6887764511231623168/
+
 # Solana
 
 Como configurar um ambiente Solana do zero usando Anchor no Windows e Linux  
