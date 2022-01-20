@@ -18,6 +18,9 @@ As blockchains por exemplo são uma tecnologia que permite a web3 acontecer, com
 
 # Web3 e DeFi
 
+Webnario sobre Web3 explicando conceitos básicos do tema
+* https://www.youtube.com/watch?v=yGdRu0PvWs4 (Webinar Transformação Digital: Tecnologias do Futuro)
+
 Guia teórico explicando tudo desde a criação do Ethereum até os produtos e blockchains atuais  
 * https://dev.to/gabrieljeronimo/guia-as-financas-descentralizadas-ego (ainda falta traduzir várias páginas! aqui é o índex delas traduzido!)
 
