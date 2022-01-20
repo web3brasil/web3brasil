@@ -23,7 +23,7 @@ O que é DeFi? Explicando as finanças descentralizadas. (página do guia acima!
 
 Guia teórico explicando tudo desde a criação do Ethereum até os produtos e blockchains atuais  
 * https://dev.to/gabrieljeronimo/guia-as-financas-descentralizadas-ego (ainda falta traduzir várias páginas! aqui é o índex delas traduzido!)
-* 
+
 Gerindo comunidades Web3 e mídias sociais  
 * https://medium.com/@miltonsermoud/gerindo-comunidades-web3-e-m%C3%ADdias-sociais-4ef04fd0851c
 
