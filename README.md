@@ -18,15 +18,12 @@ As blockchains por exemplo são uma tecnologia que permite a web3 acontecer, com
 
 # Web3 e DeFi
 
-Webnario sobre Web3 explicando conceitos básicos do tema
-* https://www.youtube.com/watch?v=yGdRu0PvWs4 (Webinar Transformação Digital: Tecnologias do Futuro)
-
-Guia teórico explicando tudo desde a criação do Ethereum até os produtos e blockchains atuais  
-* https://dev.to/gabrieljeronimo/guia-as-financas-descentralizadas-ego (ainda falta traduzir várias páginas! aqui é o índex delas traduzido!)
-
 O que é DeFi? Explicando as finanças descentralizadas. (página do guia acima!)
 * https://dev.to/gabrieljeronimo/o-que-e-defi-explicando-as-financas-descentralizadas-o3i
 
+Guia teórico explicando tudo desde a criação do Ethereum até os produtos e blockchains atuais  
+* https://dev.to/gabrieljeronimo/guia-as-financas-descentralizadas-ego (ainda falta traduzir várias páginas! aqui é o índex delas traduzido!)
+* 
 Gerindo comunidades Web3 e mídias sociais  
 * https://medium.com/@miltonsermoud/gerindo-comunidades-web3-e-m%C3%ADdias-sociais-4ef04fd0851c
 
@@ -53,6 +50,9 @@ Protocolos Grossos: Como a blockchain promove inovação tecnológica de forma d
 
 Sobre a influência da arte no futuro e a importância do metaverso ser aberto e com fácil interoperabilidade
 * https://twitter.com/MarcoWorms/status/1472916371273093120
+
+Webinar sobre Web3 explicando conceitos básicos do tema
+* https://www.youtube.com/watch?v=yGdRu0PvWs4 (Webinar Transformação Digital: Tecnologias do Futuro)
 
 # Ethereum, Fantom, e outras compatíveis com a Ethereum
 
