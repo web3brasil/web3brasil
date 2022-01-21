@@ -52,7 +52,7 @@ Sobre a influência da arte no futuro e a importância do metaverso ser aberto e
 * https://twitter.com/MarcoWorms/status/1472916371273093120
 
 Webinar sobre Web3 explicando conceitos básicos do tema
-* https://www.youtube.com/watch?v=yGdRu0PvWs4 (Webinar Transformação Digital: Tecnologias do Futuro)
+* https://www.youtube.com/watch?v=yGdRu0PvWs4
 
 # Ethereum, Fantom, e outras compatíveis com a Ethereum
 
