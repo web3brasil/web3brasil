@@ -54,6 +54,9 @@ Sobre a influência da arte no futuro e a importância do metaverso ser aberto e
 Webinar sobre Web3 explicando conceitos básicos do tema
 * https://www.youtube.com/watch?v=yGdRu0PvWs4
 
+Palestra sobre defi e aplicativos decentralizados
+* https://vimeo.com/645207166
+
 # Ethereum, Fantom, e outras compatíveis com a Ethereum
 
 Guia de Solidity em português  
