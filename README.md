@@ -109,26 +109,13 @@ Fazendo gerador de pixel art + cor procedural com um motor de jogos
 Timeline com alguns dos principais acontecimentos sobre NFT, criptomoedas e outros projetos web3. 
 * https://web3isgoinggreat.com/
 
-# 🔠 Traduza conteúdo pra português:
-
-## Se você começar a traduzir alguma página abaixo abra uma issue sinalizando o que você vai traduzir e qual sua expectativa de terminar! Assim evitamos retrabalho!
-
-Guia teórico explicando tudo desde a criação do Ethereum até os produtos e blockchains atuais  
-* https://dev.to/gabrieljeronimo/guia-as-financas-descentralizadas-ego (ainda falta traduzir várias páginas!)
-
-# ✍️ Adicione conteúdo novo na enciclopédia
-
-## Abra um PR adicionando a fonte de conteúdo na língua desejada, depois nós lidamos com atualizar a parte de traduções!
-
-Aprenda a usar a biblioteca Ethers ou Web3 para se comunicar com contratos através de um front-end  
-* tbd
-
 # Comunidades pra você entrar e falar mais sobre web3 e desenvolvimento de dapps
 
 FakewormsStudio  
 * http://discord.gg/fantom-kittens
+* https://twitter.com/FakewormsStudio
 
-Web3dev (Comunidade que nos alcançou recentemente, linkei aqui por agora e vamos conversar mais sobre somo unir esforços)  
+Web3dev
 * https://docs.web3dev.com.br/
 * https://discord.web3dev.com.br
 
