@@ -57,6 +57,9 @@ Webinar sobre Web3 explicando conceitos básicos do tema
 Palestra sobre defi e aplicativos decentralizados
 * https://vimeo.com/645207166
 
+Como pagar menos gas fees nas operações com a Ethereum
+* https://twitter.com/tiagoyonamine/status/1487521878034071559
+
 # Ethereum, Fantom, e outras compatíveis com a Ethereum
 
 Guia de Solidity em português  
