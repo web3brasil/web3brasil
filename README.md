@@ -1,6 +1,8 @@
-<p align="center">
-    <img alt="web3 brasil" src="imagens/banner.png"/>
-</p>
+# Meetup Online Web3Brasil dia 16 de Fevereiro de 2022
+
+![telegram-cloud-photo-size-1-5181472434958739933-y](https://user-images.githubusercontent.com/7863230/152646261-b277c3d3-f0ab-48bd-bec3-6808f4a580ed.jpg)
+
+Leia mais aqui: https://twitter.com/MarcoWorms/status/1489681998310518792
 
 # Por onde começar??
 
