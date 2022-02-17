@@ -14,7 +14,7 @@ As blockchains por exemplo são uma tecnologia que permite a web3 acontecer, com
 
 # Meetups Web3Brasil
 
-Edição 1
+Edição 1 (Inicia no minuto 38:38)
 * https://twitter.com/i/broadcasts/1OdKrBYVWvAKX
 
 # Web3 e DeFi
