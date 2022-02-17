@@ -1,9 +1,3 @@
-# Meetup Online Web3Brasil dia 16 de Fevereiro de 2022
-
-![telegram-cloud-photo-size-1-5181472434958739933-y](https://user-images.githubusercontent.com/7863230/152646261-b277c3d3-f0ab-48bd-bec3-6808f4a580ed.jpg)
-
-Leia mais aqui: https://twitter.com/MarcoWorms/status/1489681998310518792
-
 # Por onde começar??
 
 Ainda não temos um guia linear de como juntar todas as peças do movimento da web3, mas aqui você vai encontrar material pra aprender sobre vários conceitos chave.
@@ -17,6 +11,11 @@ A palavra "web3" tenta delimitar o escopo do movimento descrito acima. Resumidam
 * Web 3 — O usuário gera conteúdo, o usuário é dono do conteúdo
 
 As blockchains por exemplo são uma tecnologia que permite a web3 acontecer, como estamos no começo desse movimento ainda estamos por ver várias tecnologias e produtos que vão agregar mais ainda nessa nova camada da internet.
+
+# Meetups Web3Brasil
+
+Edição 1
+* https://twitter.com/i/broadcasts/1OdKrBYVWvAKX
 
 # Web3 e DeFi
 
