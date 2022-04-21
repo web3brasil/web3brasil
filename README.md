@@ -21,6 +21,9 @@ As blockchains por exemplo são uma tecnologia que permite a web3 acontecer, com
 Edição 1 (Inicia no minuto 38:38)
 * https://twitter.com/i/broadcasts/1OdKrBYVWvAKX
 
+Edição 2
+* https://twitter.com/i/broadcasts/1yoKMWkNOrdJQ
+
 # Web3 e DeFi
 
 O que é DeFi? Explicando as finanças descentralizadas. (página do guia acima!)
