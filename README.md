@@ -122,13 +122,16 @@ Timeline com alguns dos principais acontecimentos sobre NFT, criptomoedas e outr
 
 # Comunidades pra você entrar e falar mais sobre web3 e desenvolvimento de dapps
 
-FakewormsStudio  
-* http://discord.gg/fantom-kittens
-* https://twitter.com/FakewormsStudio
-
 Web3dev
 * https://docs.web3dev.com.br/
 * https://discord.web3dev.com.br
 
+FakewormsStudio  
+* https://twitter.com/FakewormsStudio
+* https://discord.gg/nsVMzZfZKJ
+
 # Contribuidores
+
+Adicione referências em português nesse guia abrindo um "Pull Request" com sua sugestão de alterações, se precisar de ajuda com isso peça em algum dos grupos acima!
+
 <a href="https://github.com/web3brasil/web3brasil/graphs/contributors"><img src="https://contrib.rocks/image?repo=web3brasil/web3brasil" /></a>
