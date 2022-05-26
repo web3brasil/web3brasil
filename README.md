@@ -95,7 +95,7 @@ Como configurar um ambiente Solana do zero usando Anchor no Windows e Linux
 * https://dev.to/gabrieljeronimo/como-configurar-um-ambiente-solana-no-windows-e-linux-hi9
 
 Guia completo de desenvolvimento full-stack com Solana, React, Anchor, Rust e Phantom  
-* https://vitorsalmeida.com/blog/fullstack-development-solana
+* https://vitorsalmeida.com/blog/ptBR/fullstack-development-solana
 
 Entendendo Program Derived Addresses  
 * a ser traduzido
