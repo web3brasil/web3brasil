@@ -266,6 +266,10 @@ Uma vantagem de usar o Curve é que ele minimiza o deslizamento. O deslizamento 
 
 Atualmente, o Curve possui cerca de $6 bilhões de liquidez em seus contratos.
 
+## Convex ([source](https://docs.convexfinance.com/convexfinance/))
+
+<img src="https://i.imgur.com/L52LD2p.png" width="400"/><br/>
+
 Convex Finance é uma plataforma que permite aos usuários otimizar sua liquidez na Curve Finance e ganhar recompensas aumentadas na forma de tokens CRV.
 
 A Curve utiliza um mecanismo de governança que gira em torno do veCRV: uma versão bloqueada do CRV, e para maximizar os rendimentos, os usuários devem bloquear seus CRV por 4 anos. Mas muitos desejam sair antes e, portanto, a solução da Convex foi a seguinte: todos depositam seus CRV na Convex, que aplica tudo junto, maximizando os rendimentos e os boosts existentes no protocolo Curve, e em troca, os usuários recebem cvxCRV, que é como uma versão negociável do veCRV.
