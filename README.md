@@ -2,7 +2,7 @@
 
 Este guia é uma versão resumida do [Guia para Finanças Descentralizadas](https://finematics.com/guide-to-decentralized-finance/) da Finematics. **Eu não sou o autor dos guias originais e utilizei muitas imagens deles**. Também utilizei a estrutura de progressão do guia, mas incluí alguns conceitos extras para garantir que os leitores possam entender completamente a DeFi.
 
-A maioria dos conceitos foi descrita inicialmente pelo GPT-3 AI após alimentá-lo com o artigo completo da Finematics e pedir um "resumo em termos leigos". Em seguida, revisei os textos com a ajuda do Grammarly e adicionei quaisquer detalhes extras que possam ajudar na compreensão do conceito. Foi divertido criar isso e espero que seja uma leitura interessante!
+A maioria dos conceitos foi descrita inicialmente pelo GPT após alimentá-lo com artigos completos da Finematics e pedir um "resumo em termos leigos". Em seguida, revisei os textos com a ajuda do Grammarly e adicionei quaisquer detalhes extras que possam ajudar na compreensão do conceito. Foi divertido criar isso e espero que seja uma leitura interessante!
 
 Se você gostar deste conteúdo, siga o criador original de todos os guias usados para produzir este resumo:
 
@@ -18,15 +18,15 @@ E também me siga no Twitter, pois estou sempre explorando e escrevendo sobre De
 A DeFi acontece principalmente em blockchains, então é importante entender a história e os conceitos básicos dessa tecnologia:
 
 - O primeiro uso popular da tecnologia blockchain surgiu com o Bitcoin em 2009.
-- O Bitcoin utilizou a blockchain para criar uma "moeda descentralizada + livro-razão".
-- Isso é o que eu quero dizer com livro-razão: uma tabela que registra quanto dinheiro entra e sai de cada conta:
+- O Bitcoin utilizou a blockchain para criar uma "moeda descentralizada + livro-caixa".
+- Isso é o que eu quero dizer com livro-caixa: uma tabela que registra quanto dinheiro entra e sai de cada conta:
 ![](https://i.imgur.com/KkL9UOo.png)
 - "Descentralizado" nesse contexto significa que qualquer pessoa pode usar esse produto e qualquer pessoa também pode ajudar a manter sua infraestrutura.
     - Qualquer pessoa pode ser um usuário: um usuário pode enviar BTC para outro usuário (há uma taxa para cada transação).
     - Qualquer pessoa pode ser um minerador: um minerador participa do processo de validação das transações dos usuários (e recebe taxas de transação por isso).
 - Então, o Bitcoin:
     - criou um novo tipo de dinheiro (BTC).
-    - anexou um livro-razão que não pode ser manipulado quando as transações são liquidadas.
+    - criou também um livro-caixa que não pode ser manipulado quando as transações são liquidadas.
     - estabeleceu um fluxo de incentivos para garantir que as pessoas que executam a infraestrutura recebam dinheiro por fazê-lo, garantindo a segurança da rede para o futuro.
 - Mas o Bitcoin não permitia que [Contratos Inteligentes](#Contratos-Inteligentes-fonte) acontecessem.
 - O Ethereum foi lançado em 2015.
@@ -43,9 +43,9 @@ Este é o nosso primeiro nível, perfeito para iniciantes. Se você já ouviu fa
 
 ![](https://i.imgur.com/SrIyP2o.png)
 
-A DeFi é um movimento que visa criar um novo sistema financeiro aberto a todos e que não exija a confiança em intermediários como bancos. Para alcançar isso, a DeFi depende muito da criptografia, blockchain e contratos inteligentes.
+DeFi é um movimento que visa criar um novo sistema financeiro aberto a todos e que não exija a confiança em intermediários como bancos. Para alcançar isso, DeFi depende muito da criptografia, blockchain e contratos inteligentes.
 
-O ecossistema da DeFi é composto por várias áreas principais, sendo as principais: Empréstimos e Empréstimos, Moedas Estáveis, Exchanges Descentralizadas, Derivativos, Negociação com Margem e Seguros.
+O ecossistema de DeFi é composto por várias áreas principais, sendo as principais: Empréstimos e Empréstimos, Moedas Estáveis, Exchanges Descentralizadas, Derivativos, Negociação com Margem e Seguros.
 
 ## Carteiras DeFi ([fonte](https://finematics.com/top-3-defi-wallets-for-2021/))
 
@@ -69,7 +69,7 @@ E um bom conceito a ter em mente é que nada está dentro da sua carteira. Você
 
 ![](https://i.imgur.com/WaRuf18.png)
 
-## Contratos Inteligentes ([fonte](https://finematics.com/smart-contracts-explained/))
+## Contratos Inteligentes (Smart Contracts) ([fonte](https://finematics.com/smart-contracts-explained/))
 
 ![](https://i.imgur.com/PPzHFll.png)
 
@@ -83,7 +83,7 @@ Um contrato inteligente no Ethereum é uma carteira com funções embutidas:
 
 <img src="https://i.imgur.com/6qH5Wto.png" width="400"/>
 
-Embora o Ethereum seja atualmente a plataforma de contrato inteligente mais popular, não é a única com alguns concorrentes. Alguns deles são [Solana](https://solana.com/), [Tezos](https://tezos.com/), [Tron](https://tron.network/), mas nem todos compartilham as mesmas características.
+Embora o Ethereum seja atualmente a plataforma de contrato inteligente mais popular, não é a única, tendo alguns concorrentes. Alguns deles são [Solana](https://solana.com/), [Tezos](https://tezos.com/), [Tron](https://tron.network/), mas nem todos compartilham as mesmas características.
 
 ## ERCs ([fonte](https://ethereum.org/en/eips/))
 
@@ -111,7 +111,7 @@ Os empréstimos e empréstimos podem ser feitos na DeFi de forma completamente d
 
 O fator de colateral determina quanto pode ser emprestado com base na qualidade do colateral. Se um usuário decide pegar emprestado fundos, o valor do montante emprestado deve sempre ser menor que o valor do colateral fornecido multiplicado pelo seu fator de colateral. Se essa condição for atendida, não há limite para quanto tempo um usuário pode pegar emprestado fundos. Duas famosas plataformas de empréstimos DeFi são [AAVE](https://aave.com/) e [Compound](https://compound.finance/).
 
-# Aprendiz de DeFi
+# Conhecedor de DeFi
 
 Neste nível, você se sente confortável com todos os conceitos incluídos no nível de Novato em DeFi e está pronto para se aprofundar no futuro das finanças!
 
@@ -132,7 +132,7 @@ Existem aproximadamente três tipos de moedas estáveis, cada uma focando mais e
 
 <img src="https://i.imgur.com/FcfyOTW.png" width="600"/>
 
-As Pools de Liquidez (LPs) são contratos inteligentes que possuem uma determinada quantidade de 2 tokens diferentes e permitem que os usuários troquem esses tokens diretamente entre si. Esse processo é completamente descentralizado, portanto, não há necessidade de uma exchange centralizada que normalmente detém os tokens e facilita a negociação.
+As Pools de Liquidez (LPs, Liquidity Pools) são contratos inteligentes que possuem uma determinada quantidade de 2 tokens diferentes e permitem que os usuários troquem esses tokens diretamente entre si. Esse processo é completamente descentralizado, portanto, não há necessidade de uma exchange centralizada que normalmente detém os tokens e facilita a negociação.
 
 Sempre que um usuário deseja trocar um token por outro, ele simplesmente vai para uma pool de liquidez que possui esses 2 tokens e realiza uma negociação. A pool de liquidez usa um algoritmo especial chamado formador de mercado automatizado (AMM) para determinar o preço dos tokens na pool e facilitar as negociações. Todo esse processo geralmente é bastante rápido e geralmente é mais barato do que usar uma exchange centralizada.
 
@@ -140,7 +140,7 @@ Qualquer usuário pode se tornar um provedor de liquidez fornecendo tokens para 
 
 Como as pools de liquidez são apenas contratos inteligentes, elas podem ser modificadas para conter mais de 2 tokens ou ter um algoritmo de precificação diferente que funcione melhor com determinados ativos. Isso é o que o [Curve](https://curve.fi/) fez, otimizou o algoritmo da LP para pools feitas de 2 stablecoins do mesmo ativo e se tornou um dos protocolos DeFi mais bem-sucedidos.
 
-## Perda Temporária ([fonte](https://finematics.com/impermanent-loss-explained/))
+## Perda Temporária (Impermanent Loss) ([fonte](https://finematics.com/impermanent-loss-explained/))
 
 A perda temporária é uma perda temporária de fundos que ocorre ao fornecer liquidez. Geralmente é explicada como a diferença entre manter um ativo versus fornecer liquidez para esse ativo. A perda temporária é geralmente observada em pools de liquidez padrão, onde o provedor de liquidez (LP) precisa fornecer ambos os ativos na proporção correta, e um dos ativos é volátil em relação ao outro, por exemplo, em uma pool Uniswap DAI/ETH 50/50.
 
@@ -148,9 +148,9 @@ Se o ETH valorizar, a pool precisa confiar em arbitragistas (usuários que reali
 
 ![](https://i.imgur.com/bmUE5M4.png)
 
-## Farming de Rendimento ([fonte](https://finematics.com/yield-farming-explained/))
+## Farming de Rendimento (Yield Farming) ([fonte](https://finematics.com/yield-farming-explained/))
 
-O farming de rendimento, essencialmente, é uma forma de maximizar a taxa de retorno do capital alavancando diferentes protocolos DeFi. Os farmers de rendimento tentam buscar o maior rendimento trocando entre várias estratégias diferentes. As estratégias mais lucrativas geralmente envolvem pelo menos alguns protocolos DeFi, como Compound, Curve, Synthetix, Uniswap ou Balancer. Se a estratégia não funcionar ou se houver uma estratégia melhor disponível, os farmers de rendimento movem seus fundos. Eles podem, por exemplo, mover os fundos entre diferentes protocolos ou trocar algumas de suas moedas por outras que estão gerando mais rendimento no momento. No mundo do farming de rendimento, esse procedimento às vezes é chamado de rotação de culturas.
+O farming de rendimento, essencialmente, é uma forma de maximizar a taxa de retorno do capital alavancando diferentes protocolos DeFi. Os farmers (fazendeiros) de rendimento tentam buscar o maior rendimento trocando entre várias estratégias diferentes (plantações). As estratégias mais lucrativas geralmente envolvem pelo menos alguns protocolos DeFi, como Compound, Curve, Synthetix, Uniswap ou Balancer. Se a estratégia não funcionar ou se houver uma estratégia melhor disponível, os farmers de rendimento movem seus fundos. Eles podem, por exemplo, mover os fundos entre diferentes protocolos ou trocar algumas de suas moedas por outras que estão gerando mais rendimento no momento. No mundo do farming de rendimento, esse procedimento às vezes é chamado de rotação de culturas.
 
 ![](https://i.imgur.com/lWroYNw.png)
 
@@ -168,15 +168,15 @@ Em resumo, o Yearn ETH Vault gera rendimento pegando emprestado DAI do MakerDAO 
 
 ![](https://i.imgur.com/wTOC4EM.png)
 
-# Mestre de DeFi
+# Mestre DeFi
 
 Os conceitos incluídos em Novato em DeFi e Aprendiz de DeFi parecem fáceis para você. Hora de levar suas habilidades para o próximo nível.
 
-## Flash Loans ([fonte](https://finematics.com/flash-loans-explained/))
+## Flash Loans (Empréstimo Relâmpago) ([fonte](https://finematics.com/flash-loans-explained/))
 
 ![](https://i.imgur.com/Khhg1YW.png)
 
-Um flash loan é um recurso que permite que você pegue emprestado qualquer quantia disponível de ativos de um pool de contratos inteligentes designado, sem a necessidade de garantias. Flash loans são blocos de construção úteis na DeFi, pois podem ser usados para arbitragem, troca de garantias e autoliquidação.
+Um flash loan é um recurso que permite que você pegue emprestado qualquer quantia disponível de ativos de um pool de contratos inteligentes designado, sem a necessidade de garantias, contento que o empréstimo seja devolvido no mesmo bloco. Flash loans são blocos de construção úteis na DeFi, pois podem ser usados para arbitragem, troca de garantias e autoliquidação.
 
 Os flash loans, embora inicialmente introduzidos pelo protocolo Marble, foram popularizados pela [Aave](https://aave.com/) e [dYdX](https://dydx.exchange/).
 
@@ -190,7 +190,7 @@ Flash loans, assim como criptomoedas, podem ser usados para o bem e para o mal. 
 
 Embora os flash loans sejam predominantemente usados por desenvolvedores, também é possível usá-los sem precisar codificar. Projetos como [Collateralswap](https://collateralswap.com/), [Defisaver](https://defisaver.com/) ou [Furucombo](https://furucombo.app/) tornam isso possível.
 
-## Ataques Vampiros: Caso do Sushi ([fonte](https://finematics.com/vampire-attack-sushiswap-explained/))
+## Ataques Vampiros: Caso Sushi ([fonte](https://finematics.com/vampire-attack-sushiswap-explained/))
 
 <img src="https://i.imgur.com/jtxhXLi.png" width="200"/>
 
@@ -208,7 +208,7 @@ Ampleforth é uma criptomoeda com uma característica única - seu fornecimento 
 
 O Ampleforth visa diversificar as carteiras de criptomoedas, sendo menos correlacionado ao preço do Bitcoin em comparação com outras criptomoedas. No médio prazo, visa ser usado como garantia em protocolos DeFi. O objetivo de longo prazo do Ampleforth é criar uma alternativa ao dinheiro emitido por bancos centrais que seja adaptável a choques.
 
-## NFTs na DeFi ([fonte](https://finematics.com/what-are-nfts-and-how-can-they-be-used-in-defi/))
+## NFTs em DeFi ([fonte](https://finematics.com/what-are-nfts-and-how-can-they-be-used-in-defi/))
 
 NFTs são um tipo de token criptográfico que pode representar a propriedade de bens digitalmente escassos, como obras de arte ou colecionáveis, como itens de jogos. Eles são indivisíveis e cada unidade não é intercambiável e possui propriedades diferentes. Os NFTs são provavelmente escassos e indivisíveis.
 
@@ -222,7 +222,7 @@ Na economia, fungibilidade é a característica de bens ou commodities em que ca
 - **Provavelmente escasso** - geralmente há um número limitado de NFTs, com um exemplo extremo de ter apenas 1 cópia. O número de tokens pode ser verificado na blockchain, daí sua provabilidade.
 - **Indivisível** - a maioria dos NFTs não pode ser dividida em denominações menores, então você não pode comprar ou transferir uma fração do seu NFT, mas pode criar um ativo derivado que representa um NFT fracionado.
 
-No mundo da DeFi, os NFTs podem ser usados como garantia para empréstimos. No entanto, isso não é sem desafios, pois os mercados para determinados NFTs podem ser muito ilíquidos, tornando difícil avaliar com precisão a garantia.
+Em DeFi, os NFTs podem ser usados como garantia para empréstimos. No entanto, isso não é sem desafios, pois os mercados para determinados NFTs podem ser muito ilíquidos, tornando difícil avaliar com precisão a garantia.
 
 ## Escalonamento de Camada 2 ([fonte](https://finematics.com/ethereum-layer-2-scaling-explained/))
 
@@ -292,7 +292,7 @@ Abaixo estão glossários e outros recursos para ajudá-lo a navegar:
 - [descrições de estratégias DeFi do yearn](https://docs.yearn.finance/getting-started/guides/how-to-understand-strategies-descriptions)
 - [conhecimento coletivo web3 do pentacle.xyz](http://pentacle.xyz/)
 - [wiki defillama](https://wiki.defillama.com/wiki/Main_Page)
-- [roteiro do desenvolvedor DeFi](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+- [roteiro de desenvolvedor DeFi](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 - [noções básicas de segurança DeFi](https://mirror.xyz/blorms.eth/LI0i-2v2Qs5UX2NV_L6zA8JMOteoOw0jWSm4e8ZR2oo)
 - [como estudar DeFi](https://0xth.notion.site/DeFi-Studies-c16a5b6fba254c719fed633bc6b3b990#45356bb2587844588c678b98644cbf8f)
 
