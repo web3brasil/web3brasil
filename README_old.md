@@ -1,7 +1,3 @@
-<p align="center">
-    <img alt="web3 brasil" src="imagens/banner.png"/>
-</p>
-
 # Por onde começar??
 
 Ainda não temos um guia linear de como juntar todas as peças do movimento da web3, mas aqui você vai encontrar material pra aprender sobre vários conceitos chave.
