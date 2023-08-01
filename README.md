@@ -1,4 +1,4 @@
-# Web3Brasil: Curso Rápido sobre Finanças Descentralizadas
+# Web3Brasil: Curso Rápido sobre Finanças Descentralizadas (DeFi)
 
 Este guia é uma versão resumida do [Guia para Finanças Descentralizadas](https://finematics.com/guide-to-decentralized-finance/) da Finematics. **Eu não sou o autor dos guias originais e utilizei muitas imagens deles**. Também utilizei a estrutura de progressão do guia, mas incluí alguns conceitos extras para garantir que os leitores possam entender completamente a DeFi.
 
