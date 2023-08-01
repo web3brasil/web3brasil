@@ -2,6 +2,8 @@
 
 > Traduzido de: https://github.com/MarcoWorms/defi-crash-course
 
+![](https://i.imgur.com/Huayq6T.png)
+
 Este guia é uma versão resumida do [Guia para Finanças Descentralizadas](https://finematics.com/guide-to-decentralized-finance/) da Finematics. **Eu não sou o autor dos guias originais e utilizei muitas imagens deles**. Também utilizei a estrutura de progressão do guia, mas incluí alguns conceitos extras para garantir que os leitores possam entender completamente a DeFi.
 
 A maioria dos conceitos foi descrita inicialmente pelo GPT após alimentá-lo com artigos completos da Finematics e pedir um "resumo em termos leigos". Em seguida, revisei os textos com a ajuda do Grammarly e adicionei quaisquer detalhes extras que possam ajudar na compreensão do conceito. Foi divertido criar isso e espero que seja uma leitura interessante!
@@ -226,7 +228,7 @@ Na economia, fungibilidade é a característica de bens ou commodities em que ca
 
 Em DeFi, os NFTs podem ser usados como garantia para empréstimos. No entanto, isso não é sem desafios, pois os mercados para determinados NFTs podem ser muito ilíquidos, tornando difícil avaliar com precisão a garantia.
 
-## Escalonamento de Camada 2 ([fonte](https://finematics.com/ethereum-layer-2-scaling-explained/))
+## Escalonamento de Camada 2 (L2, Layer 2) ([fonte](https://finematics.com/ethereum-layer-2-scaling-explained/))
 
 <img src="https://i.imgur.com/uKGFGIb.png" width="400"/>
 
