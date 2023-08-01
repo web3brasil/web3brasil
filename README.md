@@ -105,11 +105,11 @@ O padrão [ERC20](https://ethereum.org/en/developers/docs/standards/tokens/erc-2
 
 A primeira versão do protocolo foi lançada em 2 de novembro de 2018. O protocolo rapidamente ganhou muita tração, o que resultou em um investimento inicial que permitiu à equipe do Uniswap trabalhar na segunda versão do protocolo, que introduziu a implementação atual de pools de liquidez usadas em muitos protocolos DeFi.
 
-## Empréstimos e Empréstimos ([fonte](https://finematics.com/lending-and-borrowing-in-defi-explained/))
+## Empréstimos ([fonte](https://finematics.com/lending-and-borrowing-in-defi-explained/))
 
 ![](https://i.imgur.com/QhLj9WZ.png)
 
-Os empréstimos e empréstimos podem ser feitos na DeFi de forma completamente descentralizada e sem permissões, mantendo a custódia total sobre suas moedas. Nos empréstimos da DeFi, as taxas operacionais são recalculadas em cada mudança de estado da blockchain Ethereum, o que proporciona taxas de juros variáveis que podem mudar bastante dependendo da demanda por empréstimos e empréstimos de determinados tokens. A quantidade que pode ser emprestada depende de 2 fatores principais:
+Empréstimos podem ser feitos na DeFi de forma completamente descentralizada e sem permissões, mantendo a custódia total sobre suas moedas. Nos empréstimos da DeFi, as taxas operacionais são recalculadas em cada mudança de estado da blockchain Ethereum, o que proporciona taxas de juros variáveis que podem mudar bastante dependendo da demanda por empréstimos e empréstimos de determinados tokens. A quantidade que pode ser emprestada depende de 2 fatores principais:
 - O primeiro é a quantidade de fundos disponíveis para serem emprestados em um mercado específico.
 - O segundo é qual é o fator de colateral dos tokens fornecidos pelo mutuário.
 
@@ -129,7 +129,7 @@ As moedas estáveis são tokens que afirmam manter uma relação de valor de 1:1
 
 Existem aproximadamente três tipos de moedas estáveis, cada uma focando mais em alguns dos problemas acima:
 - **Lastreadas por moeda fiduciária (Exemplos: [USDC](https://www.circle.com/en/usdc), [USDT](https://tether.to/), [BUSD](https://www.binance.com/en/busd)):** essas moedas estáveis são as mais proeminentes e usadas. Elas são lastreadas 1:1 por dólares reais e exigem que contas bancárias detenham dólares para lastrear a emissão das moedas estáveis. Essa operação pode ser replicada para qualquer outro ativo, por exemplo, o wBTC é uma moeda estável de BTC dentro da rede Ethereum, então você pode usar BTC em operações DeFi.
-- **Lastreadas por criptomoedas (Exemplo: [DAI](https://makerdao.com/en/), [MIM](https://abracadabra.money/), [LUSD](https://www.liquity.org/)):** essas moedas estáveis são lastreadas por outros ativos digitais, como BTC, ETH. Criadas por meio da operação de [Empréstimos e Empréstimos](#Empréstimos-e-Empréstimos-fonte).
+- **Lastreadas por criptomoedas (Exemplo: [DAI](https://makerdao.com/en/), [MIM](https://abracadabra.money/), [LUSD](https://www.liquity.org/)):** essas moedas estáveis são lastreadas por outros ativos digitais, como BTC, ETH. Criadas por meio da operação de [Empréstimos](#Empréstimos).
 - **Moedas estáveis algorítmicas (Exemplo: [FRAX](https://frax.finance/)):** implementaram um algoritmo que equilibra a oferta e demanda da moeda estável para manter a estabilidade de preço.
 
 ## Pools de Liquidez ([fonte](https://finematics.com/liquidity-pools-explained/))
