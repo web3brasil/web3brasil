@@ -1,5 +1,7 @@
 # Web3Brasil: Curso Rápido sobre Finanças Descentralizadas (DeFi)
 
+> Traduzido de: https://github.com/MarcoWorms/defi-crash-course
+
 Este guia é uma versão resumida do [Guia para Finanças Descentralizadas](https://finematics.com/guide-to-decentralized-finance/) da Finematics. **Eu não sou o autor dos guias originais e utilizei muitas imagens deles**. Também utilizei a estrutura de progressão do guia, mas incluí alguns conceitos extras para garantir que os leitores possam entender completamente a DeFi.
 
 A maioria dos conceitos foi descrita inicialmente pelo GPT após alimentá-lo com artigos completos da Finematics e pedir um "resumo em termos leigos". Em seguida, revisei os textos com a ajuda do Grammarly e adicionei quaisquer detalhes extras que possam ajudar na compreensão do conceito. Foi divertido criar isso e espero que seja uma leitura interessante!
