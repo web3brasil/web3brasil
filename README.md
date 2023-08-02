@@ -37,7 +37,7 @@ A DeFi acontece principalmente em blockchains, então é importante entender a h
     - era um clone do Bitcoin, mas tinha contratos inteligentes.
     - a moeda que ele criou é chamada de ETH.
     - cada transação, incluindo a interação com contratos inteligentes, tem uma taxa cobrada em ETH (assim como o BTC tem taxas de transação).
-- Desde então, o Ethereum tem sido um empreendimento muito bem-sucedido, a DeFi possui mais de $55 bilhões circulando em seus protocolos ([fonte DefiLLama](https://defillama.com/)), e o valor de todas as criptomoedas combinadas já atingiu a magnitude dos trilhões ([fonte CMC](https://coinmarketcap.com/charts/)).
+- Desde então, o Ethereum tem sido um empreendimento muito bem-sucedido, a DeFi possui mais de $55 bilhões circulando em seus protocolos ([fonte DefiLlama](https://defillama.com/)), e o valor de todas as criptomoedas combinadas já atingiu a magnitude dos trilhões.
 
 # Novato em DeFi
 
